@@ -2,7 +2,7 @@ Task One: Web scraping to gain company insights
 
 .Scraped and analysed customer review data to uncover findings for British Airways
 .Applied analytical skills to make tangible impact by providing recommendations, tools, and models that drive key business decisions
-.Analysed third-party data from a airline reviews website using Python
+.Analysed third-party data from an airline reviews website using Python
 .Presented insights using PowerPoint
 
 DATASET- BA-reviews.csv
