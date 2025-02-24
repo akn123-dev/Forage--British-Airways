@@ -5,6 +5,8 @@ Task One: Web scraping to gain company insights
 .Analysed third-party data from a airline reviews website using Python
 .Presented insights using PowerPoint
 
+DATASET- BA-reviews.csv
+
 Task Two: Predicting customer buying behaviour
 
 .Built a predictive model to understand factors that influence buying behaviour
@@ -12,3 +14,5 @@ Task Two: Predicting customer buying behaviour
 .Prepared the dataset
 .Trained several machine learning models 
 .Evaluated all the models and chose the best one for the purpose
+
+DATASET- customer-booking.csv
